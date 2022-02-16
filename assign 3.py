@@ -1,0 +1,5 @@
+l = float(input('Enter  the length of the room of the room Please: '))
+w = float(input('Enter  the width of the room Please: '))
+d =  float(input('Enter  the length of the door Please: '))
+print(f'The room area that needs  covering is: ', l*w)
+print(f'The room perimeter that needs to be installed a baseboard :', 2*(l+w)-d)
