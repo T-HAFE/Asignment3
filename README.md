@@ -1,2 +1,2 @@
 # Asignment3
-my first code how to calculate construction material
+my first code how to calculate the amount of construction material required
